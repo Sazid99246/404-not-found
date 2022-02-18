@@ -36,22 +36,25 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Demo: https://sazid99246.github.io/404-not-found/
 
+- What was your experience?
+This is an amazing experience to do this project. I am really so much hopeful for this project and it will encourage me to do the other projects as well
+
+- What have you learned/improved?
+I have learned HTML, CSS and Bootstrap for this project and I have improved my web skills.
+- Your wisdom? :)
+I have judged this website not equal to the given ui, because I am not a professional, but I tried.
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Features
 
@@ -70,6 +73,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@Sazid99246](https://github.com/Sazid99246})
